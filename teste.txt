@@ -1,2 +1,4 @@
 isto aqui é para eu testar o comando 'pull' la no git
 quero que esta alteração feita no github, seja visivel localmente em minha maquina com o uso do git
+agora que o comando pull funcionou, quero executar o comando push para mandar esta alterações para o github
+sera que é possivel?
