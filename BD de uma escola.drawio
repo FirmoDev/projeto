@@ -293,7 +293,7 @@
           <mxGeometry x="520" y="728" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdZGk-q2LkiDsEZGdjxJ-11" value="ID_TURMA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="750" width="80" height="30" as="geometry" />
+          <mxGeometry x="495" y="750" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdZGk-q2LkiDsEZGdjxJ-13" value="" style="line;strokeWidth=2;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="460" y="100" width="185" height="10" as="geometry" />
@@ -323,16 +323,22 @@
           <mxGeometry x="470" y="510" width="130" height="10" as="geometry" />
         </mxCell>
         <mxCell id="VdZGk-q2LkiDsEZGdjxJ-25" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="497" y="535" width="80" height="10" as="geometry" />
+          <mxGeometry x="510" y="535" width="67" height="10" as="geometry" />
         </mxCell>
         <mxCell id="VdZGk-q2LkiDsEZGdjxJ-26" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="575" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="VdZGk-q2LkiDsEZGdjxJ-28" value="ID_PO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="414" y="500" width="60" height="30" as="geometry" />
+        <mxCell id="VdZGk-q2LkiDsEZGdjxJ-28" value="ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="500" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdZGk-q2LkiDsEZGdjxJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="puEb2fNfzqytaX8gkuvn-28" target="puEb2fNfzqytaX8gkuvn-82">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdZGk-q2LkiDsEZGdjxJ-33" value="ID_DOCENTE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="525" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdZGk-q2LkiDsEZGdjxJ-34" value="ID_TURMA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="565" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
