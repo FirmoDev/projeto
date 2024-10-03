@@ -243,10 +243,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="puEb2fNfzqytaX8gkuvn-75" value="REGISTRO" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="600" y="150" width="150" height="90" as="geometry" />
+          <mxGeometry x="585" y="98" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="puEb2fNfzqytaX8gkuvn-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="puEb2fNfzqytaX8gkuvn-18" target="puEb2fNfzqytaX8gkuvn-75" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="143" />
+              <mxPoint x="290" y="78" />
+              <mxPoint x="660" y="78" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="puEb2fNfzqytaX8gkuvn-80" value="1, n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="220" y="110" width="40" height="30" as="geometry" />
@@ -299,6 +305,27 @@
         </mxCell>
         <mxCell id="VdZGk-q2LkiDsEZGdjxJ-11" value="ID_TURMA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="750" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdZGk-q2LkiDsEZGdjxJ-13" value="" style="line;strokeWidth=2;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="185" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="VdZGk-q2LkiDsEZGdjxJ-14" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="122.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="VdZGk-q2LkiDsEZGdjxJ-15" value="" style="line;strokeWidth=2;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="140" width="65" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="VdZGk-q2LkiDsEZGdjxJ-16" value="" style="line;strokeWidth=2;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="585" y="170" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="VdZGk-q2LkiDsEZGdjxJ-18" value="ID_REGISTRO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="364" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdZGk-q2LkiDsEZGdjxJ-19" value="ID_ESCOLA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdZGk-q2LkiDsEZGdjxJ-20" value="ID_PROFESSOR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="160" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
