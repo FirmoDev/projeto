@@ -70,7 +70,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="puEb2fNfzqytaX8gkuvn-17" value="CEP" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="puEb2fNfzqytaX8gkuvn-15" vertex="1">
+        <mxCell id="puEb2fNfzqytaX8gkuvn-17" value="ID_ESCOLA" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="puEb2fNfzqytaX8gkuvn-15" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -242,14 +242,14 @@
         <mxCell id="puEb2fNfzqytaX8gkuvn-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="puEb2fNfzqytaX8gkuvn-75" target="puEb2fNfzqytaX8gkuvn-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="puEb2fNfzqytaX8gkuvn-75" value="POSSUI" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="680" y="190" width="70" height="50" as="geometry" />
+        <mxCell id="puEb2fNfzqytaX8gkuvn-75" value="REGISTRO" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="600" y="150" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="puEb2fNfzqytaX8gkuvn-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="puEb2fNfzqytaX8gkuvn-18" target="puEb2fNfzqytaX8gkuvn-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="puEb2fNfzqytaX8gkuvn-80" value="1, n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="220" y="100" width="40" height="30" as="geometry" />
+          <mxGeometry x="220" y="110" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="puEb2fNfzqytaX8gkuvn-81" value="1, n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="660" y="278" width="40" height="30" as="geometry" />
